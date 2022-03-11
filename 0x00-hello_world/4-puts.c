@@ -5,6 +5,7 @@
  * Return: 0 if exiter properly. non-zero if otherwise
  */
 
+
 int main(viod)
 {
 	puts("\"Programming is like building a multilingual puzzle");
