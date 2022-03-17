@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - computes and prints sum of al the multiples
+ * main - computes and prints sum of all the multiples
  * of 3 & 5 below 1024
  * Return: Always 0 (Success)
  */
