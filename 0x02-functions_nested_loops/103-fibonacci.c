@@ -3,7 +3,7 @@
 /**
  * main - entry point
  *
- * Description: a program that prints the sum of even terms of the 
+ * Description: a program that prints the sum of even terms of the
  * Fibonacci series less than 4,000,000
  * Return: Always 0 (Success)
  */
