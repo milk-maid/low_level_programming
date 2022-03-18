@@ -22,7 +22,7 @@ int main(void)
 		{
 			sum += nextNum;
 		}
-		//prev1 + prev2;
+		/* prev1 + prev; */
 		prev2 = nextNum;
 	}
 	printf("%lu\n", sum);
