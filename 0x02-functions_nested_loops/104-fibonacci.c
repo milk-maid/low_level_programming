@@ -21,7 +21,7 @@ int main(void)
 			printf("%lu", nextNum);
 		else
 			printf("%lu, ", nextNum);
-		prev1 = prev2;
+		prev2 = prev1;
 		prev1 = nextNum;
 	}
 	printf("\n");
