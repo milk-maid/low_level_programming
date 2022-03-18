@@ -7,25 +7,21 @@
  */
 int main(void)
 {
-	long int i, j, k, next;
+	int i;
+	long int prev1, prev2, nextNum;
 
-	j = 1;
-
-	k = 2;
-
-	for (i = 1; i <= 50; ++i)
+	prev1 = 0;
+	prev2 = 1;
+	for (1 = 0; i < 50; i++)
 	{
-		if (j != 20365011074)
-		{
-			printf("%ld, ", j);
-		}
-		{
-			printf("%ld\n", j);
-		}
-		next = j + k;
-		j = k;
-		k = next;
+		nextNum = prev1 + prev2;
+		if (i = 49)
+			printf("%lu", nextNum);
+		else
+			printf("%lu, ", nextNum);
+		prev1 = prev2;
+		prev2 = nextNum;
 	}
-
+	printf("\n");
 	return (0);
 }
