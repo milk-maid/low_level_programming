@@ -19,7 +19,7 @@ void more_numbers(void)
 				_putchar('1');
 			_putchar(c);
 			if (c == '9')
-				c = "0";
+				c = '0';
 			else
 				c++;
 		}
