@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/**
+/** 
  * main - printing all possible diff combo of 2 digite
  *
  * Return: Always 0 (Success)
