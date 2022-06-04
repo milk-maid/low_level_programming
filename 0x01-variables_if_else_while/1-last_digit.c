@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 
-/** 
+/**
  * main - Determines either n is gretaer than five
  *
  * Return: Always 0 (Success)
