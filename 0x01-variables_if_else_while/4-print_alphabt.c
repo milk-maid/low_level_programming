@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/** 
+/**
  * main - Prints the English alphabet without e or q
  *
  * Return: Always 0 (Success)
