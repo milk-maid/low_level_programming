@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/**
+/** 
  * main - Printing all possible combo of single digits
  *
  * Return: Always 0 (Success)
