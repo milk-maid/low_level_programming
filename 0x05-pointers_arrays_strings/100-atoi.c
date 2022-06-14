@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-* _atoi - a function that converts a
+* _atoi - a function that convert a
 * string to an integer.
 * @s: string to be converted
 * Return: the integer or 0 if no number
@@ -24,7 +24,7 @@ int _atoi(char *s)
 		else if (num)
 			break;
 		else if (s[i] == '-')
-			sign *= -1';
+			sign *= -1;
 	}
 	return (num * sign);
 }
