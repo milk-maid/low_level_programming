@@ -6,8 +6,8 @@
  * Return: Always 0 (Success)
  */
 
- int main(void)
- {
+int main(void)
+{
 	long int n, fp;
 
 	n = 612852475143;
@@ -15,7 +15,7 @@
 	{
 		if (n % fp == 0)
 		{
-			n /= fp;	
+			n /= fp;
 			fp--;
 		}
 	}
