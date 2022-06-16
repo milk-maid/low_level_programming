@@ -1,4 +1,4 @@
-#include "main.h"
+ #include "main.h"
 
 /**
  * print_line - A function that draws a straight linein the terminal
