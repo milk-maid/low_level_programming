@@ -1,11 +1,11 @@
-0x08 Recursion
+#0x08 Recursion
 Project done during ** Software Engineering ** at ALX. ABOUT recursion and how to implement it in C language.
 
-Technologies
-C files are compiled using gcc
-C files are written according to the betty standard
-Tested on Ubuntu 20.04 LTS
-Files
+##Technologies
+*C files are compiled using gcc
+*C files are written according to the betty standard
+*Tested on Ubuntu 20.04 LTS
+##Files
 All of the following files are programs written in C:
 
 Filename	Description
