@@ -16,3 +16,5 @@ All of the following files are programs written in C:
 | `3-array_range.c` | Creates an array of integers |
 | `100-realloc.c` | Reallocates a memory block using malloc and free |
 | `101-mul.c` | Multiplies two positive numbers |
+| `main.h` | Header file that contains all the prototypes of the used functions |
+
