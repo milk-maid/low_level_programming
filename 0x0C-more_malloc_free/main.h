@@ -10,6 +10,10 @@ void _is_zero(char *argv[]);
 int is_digit(char *s);
 int strlen(char *s);
 void errors(void);
-int main(int argc, char *argv[])
+int main(int argc, char *argv[]);
+int _isnumber(char *str);
+void _error(void);
+int _strlen(char *s);
+char *_memset(char *s, char b, unsigned int n);
 
 #endif
