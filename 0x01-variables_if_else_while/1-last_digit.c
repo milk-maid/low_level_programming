@@ -5,7 +5,7 @@
 /**
  * main - Determines either n is gretaer than five
  *
- * Return: Always 0 (Success)
+ * Return: Always 0 (Succesx)
  */
 int main(void)
 {
