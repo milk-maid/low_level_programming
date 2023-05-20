@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - printing zero to nine as in base ten
+ * main - printing zero to nine as it is in base ten
  *
  * Return: Always 0 (Success)
  */
