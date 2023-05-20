@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - printing all possible diff combo of 2 digite
+ * main - printing all possible diff combos of 2 digite
  *
  * Return: Always 0 (Success)
  */
