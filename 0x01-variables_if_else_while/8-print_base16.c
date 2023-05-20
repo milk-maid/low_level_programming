@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - printing all numbers of base 16 in lower care
+ * main - printing all number of base 16 in lower care
  *
  * Return: Always 0 (Success)
  */
