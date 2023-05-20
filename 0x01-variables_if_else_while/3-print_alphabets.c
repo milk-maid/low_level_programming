@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints the English alphabet in a special order
+ * main - print the English alphabet in a special order
  *
  * Return: Always 0 (Success)
  */
